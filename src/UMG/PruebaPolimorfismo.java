@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class PruebaPolimorfismo {
     int opcion=0,exit=0;
-
+//menu
     public static void main(String[] args) {
         PruebaPolimorfismo proyecto=new PruebaPolimorfismo();
         proyecto.menuGeneral();
